@@ -14,3 +14,6 @@ java.lang.IllegalStateException: port: 80 already in use!
 	at com.jfinal.server.JettyServer.start(JettyServer.java:65)
 	at com.jfinal.core.JFinal.start(JFinal.java:154)
 	at com.demo.common.config.DemoConfig.main(DemoConfig.java:78)
+
+2016-03-16 20:30:36
+[WARN]-[Thread: qtp1717402253-22]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: blog
