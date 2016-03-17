@@ -17,3 +17,9 @@ java.lang.IllegalStateException: port: 80 already in use!
 
 2016-03-16 20:30:36
 [WARN]-[Thread: qtp1717402253-22]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: blog
+
+2016-03-16 20:35:20
+[WARN]-[Thread: qtp1440636683-18]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: blog
+
+2016-03-16 21:06:14
+[WARN]-[Thread: qtp2050094903-21]-[com.jfinal.core.ActionHandler.handle()]: 404 Action Not Found: blog
